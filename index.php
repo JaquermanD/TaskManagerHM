@@ -6,7 +6,7 @@
     <title>Lista de Tareas Tarea 1</title>
     <!-- Importar Bulma -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
-    <link rel="stylesheet" href="Assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
@@ -31,6 +31,6 @@
         </div>
     </div>
 
-    <script src="Assets/js/task.js"></script>
+    <script src="assets/js/task.js"></script>
 </body>
 </html>
