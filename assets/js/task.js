@@ -6,6 +6,7 @@ $(function () {
         success: function (res) {
             const data = JSON.parse(res);
             taskList.html("");
+            
             data.forEach(element => {
                 createTask(element['text'],element['status']);
             });
