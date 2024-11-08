@@ -1,1 +1,2 @@
-TaskManager For Cindyita By Jaquerman
+TaskManager By Jaquerman
+= )
